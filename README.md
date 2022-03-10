@@ -1,17 +1,25 @@
 
 <h1 align = "center">Hi there, I'm Enzo Raian 👋</h1>
-
-<div align="center">
-  <a href="https://github.com/enzoraian">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=enzoraian&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enzoraian&layout=compact&langs_count=7&theme=dark"/>
+<div align = "center">
+  <img width = "300" src = "https://c.tenor.com/_DOBjnGspYAAAAAC/code-coding.gif"> 
+  <img width = "300" src = "https://c.tenor.com/y2JXkY1pXkwAAAAC/cat-computer.gif"> 
+  
 </div>
 
-<div style="display: inline_block"><br>
+<div>
+  <a href="https://github.com/enzoraian">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=enzoraian&show_icons=true&theme=radical&bg_color=30,0d0d0d,191919&title_color=fff&text_color=fff&icon_color=79ff97"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enzoraian&layout=compact&theme=radical&bg_color=30,0d0d0d,191919&title_color=fff&text_color=fff&icon_color=79ff97"/>
+</div>
+
+<div align = "center" style="display: inline_block"><br>
+  <h2>Technologies :coffee:</h2>
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align = "center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="32"/>
 </div>
+
 
 <div align = "center">
   <h2>Let's Connect :coffee:</h2>
