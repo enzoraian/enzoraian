@@ -17,7 +17,7 @@
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 
 <div align = "center">
- <h2>⤵️ How to reach me</h2>
+ <h2>⤵️How to reach me⤵️</h2>
 
  <a href="https://github.com/enzoraian"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
 	<a href="https://www.linkedin.com/in/enzo-raian-97a37b197/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
