@@ -1,14 +1,14 @@
 
 <h1 align = "center">Hi there, I'm Enzo Raian 👋</h1>
 <div align = "center">
-  <img width = "300" src = "https://c.tenor.com/_DOBjnGspYAAAAAC/code-coding.gif"> 
-  <img width = "300" src = "https://c.tenor.com/y2JXkY1pXkwAAAAC/cat-computer.gif"> 
+  <img width = "250" src = "https://c.tenor.com/_DOBjnGspYAAAAAC/code-coding.gif"> 
+  <img width = "250" src = "https://c.tenor.com/y2JXkY1pXkwAAAAC/cat-computer.gif"> 
   
 </div>
 
 <div align = "center">
   <a href="https://github.com/enzoraian">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enzoraian&layout=compact&theme=radical&bg_color=30,0d0d0d,191919&title_color=fff&text_color=fff&icon_color=79ff97"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enzoraian&layout=compact&theme=radical&bg_color=30,0d0d0d,191919&title_color=fff&text_color=fff&icon_color=79ff97"/>
 </div>
 
 <div align = "center" style="display: inline_block"><br>
