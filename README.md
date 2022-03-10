@@ -1,31 +1,27 @@
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
-<h1 align = "center">Hi there, I'm Enzo Raian 👋</h1>
-<div align = "center">
-  <img width = "250" src = "https://c.tenor.com/_DOBjnGspYAAAAAC/code-coding.gif"> 
-  <img width = "250" src = "https://c.tenor.com/y2JXkY1pXkwAAAAC/cat-computer.gif"> 
-  
-</div>
+<p align="left"> 
+ 👋 Hi there, I'm Enzo Raian.
+</p>
 
-<div align = "center">
-  <a href="https://github.com/enzoraian">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enzoraian&layout=compact&theme=radical&bg_color=30,0d0d0d,191919&title_color=fff&text_color=fff&icon_color=79ff97"/>
-</div>
+<p align="left">
+ ☕ Technologies: <strong>HTML, CSS, JavaScript.</strong>
+</p>
 
-<div align = "center" style="display: inline_block"><br>
-  <h2>Technologies :coffee:</h2>
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align = "center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="32"/>
-</div>
+<p align="left">
+  💼 Tools: <strong>VS Code, Git e GitHub.</strong>
+</p>
 
 
-<div align = "center">
-  <h2>Let's Connect :coffee:</h2>
-  <a href="https://github.com/enzoraian"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
-  <a href="https://www.linkedin.com/in/enzo-raian-97a37b197/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
-  <a href="https://www.instagram.com/enzo_raian/"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>	
-</div>
+<br>
 
+<p align="left">
+  <a href="#" alt="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=enzo.candido@ccc.ufcg.edu.br" /></a>
 
+  <a href="#" alt="Linkedin">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/enzo-raian-97a37b197/" /></a>
 
+  <a href="#" alt="Instagram">
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/enzo_raian/"/></a>
+</p>  
