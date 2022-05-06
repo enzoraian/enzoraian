@@ -1,9 +1,9 @@
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="300px" width="300px" align="right" alt="Computador">
 
-<h2 align="left"> 
+<p align="left"> 
   <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"> Hi there, I'm Enzo Raian. <strong>Front-end Developer</strong>
-</h2>
+</p>
 
 
 <strong>🦄 Languages:</strong>	
