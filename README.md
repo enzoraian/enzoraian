@@ -1,8 +1,8 @@
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="350px" max-width="350px" align="right" alt="Computador">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width = "350px" min-width="350px" max-width="350px" align="right" alt="Computador">
 
 <p align="left"> 
-  <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"> Hi there, I'm Enzo Raian<strong> - Front-end Developer</strong>
+   Hi there, I'm Enzo Raian<strong> - Front-end Developer</strong>
 </p>
 
 <strong>🦄 Languages:</strong>	
