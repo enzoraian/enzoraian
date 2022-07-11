@@ -2,7 +2,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width = "350px" min-width="350px" max-width="350px" align="right" alt="Computador">
 
 <p align="left"> 
-   Hi there, I'm Enzo Raian<strong> - Front-end Developer</strong>
+  <h2>Hi there, I'm Enzo Raian<strong> - Front-end Developer</strong><h2>
 </p>
 
 <strong>🦄 Languages:</strong>	
